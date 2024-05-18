@@ -1,0 +1,129 @@
+{
+    margin: 0X;
+    padding: 0x;
+}
+.nv{
+    width: 100px;
+    height: 400px;
+}
+.nv nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    color: white;
+}
+.nv nav .right{
+    display: flex;
+
+}
+nav p{
+    margin-inline: 11px;
+    margin-top: 66px;  
+}     
+.nv .logo{
+    text-align: center; 
+}
+.nv .logo img{
+    width: 45px
+}    
+.nv .inp{
+    text-align: center;
+    color: white
+    margin-top: 22px;
+    font size:22px;
+}
+.nv .text{
+    text-align: center;   
+color: white;  
+margin top:font-size: 22px;
+font size: 24px
+}
+.nv .inp input{
+    width: 400 px
+    height: 10 px
+    font size:3px
+    padding: 22px
+    border: none
+    outline: none
+    margin top:22px
+
+}
+.cards{
+    display:flex
+    justify-content: contents;
+    text align: center;
+    justify-content: space around;
+}
+.cards .crd img{
+    width: 220px
+    height: 220px
+    border radius: 6px;
+    margin top: 55px
+}
+.coll .txt{
+    margin-left: 34px;  
+    margin-top:  64px;
+    padding: 33px;
+}
+.coll.rest{
+    display:flex
+    justify-content: center;
+    justify-content: space around;
+
+}
+.rest img{
+    width: 24%px;
+    border-radius: 7px;
+}
+
+.app{
+    display:flex;
+    justify-content: center
+    justify-content:space-around;
+    background colour:pink(249,229,223)
+    margin top:66px;
+}
+.app img{
+    width: 37%;
+}
+.app h1{
+    margin-top: 94px;
+    font-size: 44px;
+
+}
+.btn h1{
+    margin-left: 44px;
+    margin-top:  44px;
+    padding: 33px;
+}
+.btn button{
+    width: 900px;
+    height: 50px;
+    background-color: white;
+    border: 1p px solid grey;
+    border radius: 5px;
+    margin top: 11px;
+    margin left: 133px;
+    font-size: 22px;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: grey(235,232,231),
+    margin-top: 44px;
+    padding: 44px;
+
+
+
+
+
+
+    margin border-top-style: ; 
+
+
+
+
+
+
+,nv .inp{
+
